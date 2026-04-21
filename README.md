@@ -70,4 +70,13 @@ Built for GEEN 1400 at CU Boulder by:
 
 ## License
 
-Open for educational reference. If you build on this for your own class project, please credit the team.
+© 2026 Yonas Wassen and team. All rights reserved.
+
+This project is shared publicly for **portfolio and demonstration purposes only**. 
+You may view and reference the code and design, but you may **not** copy, 
+reproduce, modify, or redistribute any part of this project without 
+explicit written permission from the authors.
+
+If you're a student and want to learn from this project, feel free to 
+reach out — I'm happy to discuss the approach, but please don't copy 
+it directly for your own coursework.
